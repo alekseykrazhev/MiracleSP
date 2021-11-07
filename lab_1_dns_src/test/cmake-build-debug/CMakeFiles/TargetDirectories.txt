@@ -1,0 +1,3 @@
+D:/system-programming/lab_1_dns_src/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/system-programming/lab_1_dns_src/test/cmake-build-debug/CMakeFiles/test.dir
+D:/system-programming/lab_1_dns_src/test/cmake-build-debug/CMakeFiles/edit_cache.dir
